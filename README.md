@@ -18,16 +18,10 @@ This repository covers an approach taken in order to solve cryptarithmetic addit
 Cryptarithmetic puzzles come in all shapes and forms, in this work, only addition of two numbers is considered.
 An example of cryptarithmetic problem is something like:
 
-  S E N D
-  
-  
-\+ M O R E
-
-
-\---------
-
-
-M O N E Y
+  S E N D  
+\+ M O R E  
+\---------  
+M O N E Y  
 
 Where the goal is to find a set of unique digits corresponding to each letter such that the equation is satisfied.
 
