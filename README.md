@@ -4,7 +4,11 @@ Solving Cryptarithmetic puzzles with CLIPS
 ## What's CLIPS?
 
 CLIPS is a declerative programing language (think prolog), a short snippet from their website:
+
+
 Developed at NASA’s Johnson Space Center from 1985 to 1996, the C Language Integrated Production System (CLIPS) is a rule-based programming language useful for creating expert systems and other programs where a heuristic solution is easier to implement and maintain than an algorithmic solution.
+
+
 You can get clips at http://www.clipsrules.net
 
 ##  Abstract
@@ -15,8 +19,8 @@ Cryptarithmetic puzzles come in all shapes and forms, in this work, only additio
 An example of cryptarithmetic problem is something like:
 
   S E N D
-+ M O R E
----------
+\+ M O R E
+\---------
 M O N E Y
 
 Where the goal is to find a set of unique digits corresponding to each letter such that the equation is satisfied.
